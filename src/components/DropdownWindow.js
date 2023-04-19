@@ -12,10 +12,10 @@ const styles = StyleSheet.create({
     backgroundColor: '#EFEFEF',
   },
   shadow: {
-    shadowColor: '#000',
-    shadowOffset: {width: 0, height: 6},
-    shadowOpacity: 0.1,
-    shadowRadius: 10,
-    elevation: 10,
+    // shadowColor: '#000',
+    // shadowOffset: {width: 0, height: 6},
+    // shadowOpacity: 0.1,
+    // shadowRadius: 10,
+    // elevation: 10,
   },
 });

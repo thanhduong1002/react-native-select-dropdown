@@ -35,8 +35,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'center',
     alignItems: 'center',
-    borderBottomColor: '#C5C5C5',
-    borderBottomWidth: 1,
+    // borderBottomColor: '#C5C5C5',
+    // borderBottomWidth: 1,
   },
   dropdownRowText: {
     flex: 1,
